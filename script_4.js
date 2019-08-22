@@ -1,3 +1,5 @@
+console.log("This is script_4.js")
+
 const entrepreneurs = [
   { first: 'Steve', last: 'Jobs', year: 1955 },
   { first: 'Oprah', last: 'Winfrey', year: 1954 },
